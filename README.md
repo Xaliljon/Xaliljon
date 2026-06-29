@@ -139,10 +139,10 @@ class Developer {
 
 <div align="center">
 
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/peachdevuz">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/xaliljon-baxtiyorov-4a3b48187/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:kh.bakhtiyorov@yt.uz">
