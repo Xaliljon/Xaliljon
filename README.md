@@ -83,23 +83,12 @@ class Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xaliljon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaliljon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&langs_count=8" alt="top langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xaliljon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&cache_seconds=86400" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaliljon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&langs_count=8&cache_seconds=86400" alt="top langs" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Xaliljon&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF" alt="streak" />
-
-</div>
-
----
-
-<!-- ====== TROPHIES ====== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Xaliljon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
 </div>
 
