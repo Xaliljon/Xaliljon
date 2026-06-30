@@ -7,7 +7,7 @@
 
 <!-- ====== TYPING ANIMATION ====== -->
 <a href="https://github.com/Xaliljon">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+Dart+Enthusiast+%F0%9F%92%99;E-IMZO+%26+E-Signature+Integrations+%F0%9F%94%90;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Mobile+Engineer+%F0%9F%93%B1;Flutter+%26+Dart+Developer+%F0%9F%92%99;E-IMZO+SDKs+%40+PeachDev+%F0%9F%94%90;Shipping+production+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- ====== PROFILE VIEWS + FOLLOWERS ====== -->
@@ -28,20 +28,40 @@
 ```dart
 class Developer {
   final String name = "Xaliljon";
-  final String role = "Mobile App Developer";
+  final String role = "Mobile Engineer";
+  final String company = "PeachDev (peachdev-uz)";
   final String location = "Uzbekistan 🇺🇿";
-  final List<String> focus = ["Flutter", "Dart", "E-IMZO / E-Signature"];
+  final List<String> focus = ["Flutter", "Dart", "E-IMZO / E-Signature SDKs"];
   final List<String> alsoCode = ["Java", "Kotlin", "Python"];
   final String currentlyLearning = "Clean Architecture & DevOps";
-  final String funFact = "I may be slow to respond 🐢 — but the code ships 🚀";
 }
 ```
 
-- 📱 I craft **cross-platform mobile apps** with **Flutter & Dart**
-- 🔐 Specialized in **E-IMZO / digital signature** integrations for Uzbekistan
-- 🤖 I also build **trading bots** and backend services on the side
-- 🌱 Currently leveling up **clean architecture** and **automation**
-- 💬 Ask me about **Flutter**, **e-imzo**, **deep linking**, or **mobile UI**
+- 🏢 I build & maintain **production E-IMZO SDKs** at **[PeachDev](https://github.com/peachdev-uz)**
+- 📱 Cross-platform **mobile apps** with **Flutter & Dart** — iOS, Android & macOS
+- 🔐 Specialized in **E-IMZO / digital-signature** integration for Uzbekistan (ERI, OzDST crypto)
+- 🤖 Also build **trading bots** and backend services
+- 💬 Ask me about **Flutter**, **E-IMZO**, **deep linking**, or **mobile architecture**
+
+---
+
+<!-- ====== FEATURED WORK ====== -->
+## 🏢 What I Build
+
+At **[PeachDev](https://github.com/peachdev-uz)** I develop production **E-IMZO** (Uzbekistan's national e-signature / ERI) integration SDKs — native cryptography (OzDST 1092 / 1106), key import via PFX / QR / NFC / USB token, and ready-made signing UI — shipped across four platforms:
+
+<div align="center">
+
+| SDK | Platform | Distribution |
+|-----|----------|--------------|
+| [**eimzo-ios-sdk**](https://github.com/peachdev-uz/eimzo-ios-sdk) | iOS · Swift | SPM / XCFramework |
+| [**eimzo-mobile-sdk**](https://github.com/peachdev-uz/eimzo-mobile-sdk) | Android · Kotlin | Gradle / Maven |
+| [**eimzo_flutter**](https://github.com/peachdev-uz/eimzo_flutter) | Flutter · Dart | pub.dev package |
+| [**eimzo-mac**](https://github.com/peachdev-uz/eimzo-mac) | macOS | Signed & notarized DMG |
+
+</div>
+
+> 🔗 Explore the full suite → **[github.com/peachdev-uz](https://github.com/peachdev-uz)**
 
 ---
 
@@ -95,17 +115,15 @@ class Developer {
 ---
 
 <!-- ====== FEATURED PROJECTS ====== -->
-## 🚀 Featured Projects
+## 🚀 Open-Source & Side Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🔐 cruciatus](https://github.com/Xaliljon/cruciatus) | E-IMZO integration via Deep Link | `Dart` `Flutter` |
+| [🔐 cruciatus](https://github.com/Xaliljon/cruciatus) | E-IMZO integration via deep linking | `Dart` `Flutter` |
 | [🗣️ text2speech](https://github.com/Xaliljon/text2speech) | Text-to-Speech mobile app | `Dart` `Flutter` |
-| [🎙️ Speech2text](https://github.com/Xaliljon/Speech2text) | Speech recognition app | `Dart` `Flutter` |
-| [🚆 railwayinfo](https://github.com/Xaliljon/railwayinfo) | Railway information service | `Dart` `Flutter` |
-| [🎯 GetXMaqsad](https://github.com/Xaliljon/GetXMaqsad) | GetX state-management showcase | `Dart` `GetX` |
+| [🎙️ Speech2text](https://github.com/Xaliljon/Speech2text) | Speech-recognition mobile app | `Dart` `Flutter` |
 | [🌐 websocketfoiz](https://github.com/Xaliljon/websocketfoiz) | Real-time WebSocket demo | `Dart` `Flutter` |
 
 </div>
